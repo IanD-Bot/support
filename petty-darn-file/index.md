@@ -8,6 +8,8 @@ _Last updated: November 18, 2026_
 
 Petty Darn File is published by Deck-Of-Jacks.
 
+**Found a problem?** [Report an issue](https://github.com/IanD-Bot/support/issues/new?template=petty-darn-file.yml)
+
 ## About this app
 
 Petty Darn File is a Windows desktop app for everyday PDF jobs on your own PC. You can open, merge, and rearrange PDFs, add text, checkboxes, and fillable fields, type, draw, or upload a signature or initials, recognize text on scans, and fill copies from a CSV or Excel file — one combined PDF or one file per row.
@@ -37,7 +39,7 @@ Uninstall the app from Settings > Apps. Uninstalling removes the app. Files you 
 
 ## Report a problem
 
-Open a public issue at https://github.com/IanD-Bot/support/issues/new?template=petty-darn-file.yml. Please don't include personal information in the issue.
+[Report an issue](https://github.com/IanD-Bot/support/issues/new?template=petty-darn-file.yml) on GitHub. Issues are public. Please don't include personal information in the issue.
 
 ## Privacy
 

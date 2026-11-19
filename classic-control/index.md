@@ -8,6 +8,8 @@ _Last updated: November 18, 2026_
 
 Classic Control is published by Deck-Of-Jacks.
 
+**Found a problem?** [Report an issue](https://github.com/IanD-Bot/support/issues/new?template=classic-control.yml)
+
 ## About this app
 
 Classic Control brings back the classic Control Panel (category, large icons, and small icons, with search and favorites) and classic taskbar sound and network controls.
@@ -49,7 +51,7 @@ Turn off Start with Windows in Settings if it is on, then uninstall the app from
 
 ## Report a problem
 
-Open a public issue at https://github.com/IanD-Bot/support/issues/new?template=classic-control.yml. Please don't include personal information in the issue.
+[Report an issue](https://github.com/IanD-Bot/support/issues/new?template=classic-control.yml) on GitHub. Issues are public. Please don't include personal information in the issue.
 
 ## Privacy
 

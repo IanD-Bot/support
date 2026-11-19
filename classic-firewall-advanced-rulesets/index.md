@@ -8,6 +8,8 @@ _Last updated: November 18, 2026_
 
 Classic Firewall Advanced Rulesets is published by Deck-Of-Jacks.
 
+**Found a problem?** [Report an issue](https://github.com/IanD-Bot/support/issues/new?template=classic-firewall-advanced-rulesets.yml)
+
 ## About this app
 
 Classic Firewall Advanced Rulesets puts named rule groups on top of Windows Firewall, with a preview of every change, backups, and protection against locking yourself out over Remote Desktop.
@@ -41,7 +43,7 @@ You can back up and restore the whole firewall policy from the app. Uninstall th
 
 ## Report a problem
 
-Open a public issue at https://github.com/IanD-Bot/support/issues/new?template=classic-firewall-advanced-rulesets.yml. Please don't include personal information in the issue.
+[Report an issue](https://github.com/IanD-Bot/support/issues/new?template=classic-firewall-advanced-rulesets.yml) on GitHub. Issues are public. Please don't include personal information in the issue.
 
 ## Privacy
 

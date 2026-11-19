@@ -8,6 +8,8 @@ _Last updated: November 18, 2026_
 
 Classic Chippy is published by Deck-Of-Jacks.
 
+**Found a problem?** [Report an issue](https://github.com/IanD-Bot/support/issues/new?template=classic-chippy.yml)
+
 ## About this app
 
 Classic Chippy is a tray helper who finds Windows settings, explains errors, reads text from screenshots, and offers quick fixes, all on your PC. He gives you commands to copy and never runs anything for you.
@@ -48,7 +50,7 @@ Turn off Start with Windows in Settings if you want it off, then uninstall the a
 
 ## Report a problem
 
-Open a public issue at https://github.com/IanD-Bot/support/issues/new?template=classic-chippy.yml. Please don't include personal information in the issue.
+[Report an issue](https://github.com/IanD-Bot/support/issues/new?template=classic-chippy.yml) on GitHub. Issues are public. Please don't include personal information in the issue.
 
 ## Privacy
 

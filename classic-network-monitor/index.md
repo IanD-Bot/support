@@ -8,6 +8,8 @@ _Last updated: November 18, 2026_
 
 Classic Network Monitor is published by Deck-Of-Jacks.
 
+**Found a problem?** [Report an issue](https://github.com/IanD-Bot/support/issues/new?template=classic-network-monitor.yml)
+
 ## About this app
 
 Classic Network Monitor shows every app and service on your PC with its open ports and network connections, in one live list. It is read-only: it never changes your firewall or your network settings.
@@ -41,7 +43,7 @@ To clear New since… and data usage history only, use **New since… > Clear hi
 
 ## Report a problem
 
-Open a public issue at https://github.com/IanD-Bot/support/issues/new?template=classic-network-monitor.yml. Please don't include personal information in the issue.
+[Report an issue](https://github.com/IanD-Bot/support/issues/new?template=classic-network-monitor.yml) on GitHub. Issues are public. Please don't include personal information in the issue.
 
 ## Privacy
 

@@ -8,6 +8,8 @@ _Last updated: November 18, 2026_
 
 Classic Devices and Printers is published by Deck-Of-Jacks.
 
+**Found a problem?** [Report an issue](https://github.com/IanD-Bot/support/issues/new?template=classic-devices-and-printers.yml)
+
 ## About this app
 
 A classic Devices and Printers window for the printers, scanners, and Bluetooth devices Windows already knows about. Add a printer and Add a device open the built-in Windows wizards. The app does not scan the network or hunt for unpaired devices on its own.
@@ -39,7 +41,7 @@ Uninstall the app from Settings > Apps. Uninstalling the packaged app removes it
 
 ## Report a problem
 
-Open a public issue at https://github.com/IanD-Bot/support/issues/new?template=classic-devices-and-printers.yml. Please don't include personal information in the issue.
+[Report an issue](https://github.com/IanD-Bot/support/issues/new?template=classic-devices-and-printers.yml) on GitHub. Issues are public. Please don't include personal information in the issue.
 
 ## Privacy
 
