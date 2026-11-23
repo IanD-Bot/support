@@ -1,0 +1,66 @@
+name: Classic Taskbar Groups
+description: Report a problem with Classic Taskbar Groups
+title: "[Classic Taskbar Groups] "
+labels:
+  - classic-taskbar-groups
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting a problem. Please don't include personal information (such as your name, email, phone number, or address).
+  - type: dropdown
+    id: app
+    attributes:
+      label: App
+      options:
+        - Classic Devices and Printers
+        - Classic Control
+        - Classic Chippy
+        - Classic Network Monitor
+        - Classic Firewall Advanced Rulesets
+        - Petty Darn File
+        - Classic Taskbar Groups
+      default: 6
+    validations:
+      required: true
+  - type: input
+    id: app_version
+    attributes:
+      label: App version
+      description: The version shown in the app (for example in Settings or About), or on the app's page in Settings > Apps.
+      placeholder: 1.0.0.0
+    validations:
+      required: true
+  - type: input
+    id: windows_version
+    attributes:
+      label: Windows version
+      description: Shown in Settings > System > About. For example, Windows 11 24H2 or Windows 10 version 22H2.
+      placeholder: Windows 11 24H2
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: What you did, in order.
+      placeholder: |
+        1.
+        2.
+        3.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected result
+      description: What you expected to happen.
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual result
+      description: What happened instead. You can attach screenshots, but please leave out personal information.
+    validations:
+      required: true
