@@ -19,6 +19,7 @@ body:
         - Classic Network Monitor
         - Classic Firewall Advanced Rulesets
         - Petty Darn File
+        - Classic Taskbar Groups
       default: 2
     validations:
       required: true

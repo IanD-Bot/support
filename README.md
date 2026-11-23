@@ -13,6 +13,7 @@ This repository: https://github.com/IanD-Bot/support
 - [Classic Chippy](https://support.deckofjacks.com/classic-chippy) — [report an issue](https://github.com/IanD-Bot/support/issues/new?template=classic-chippy.yml)
 - [Classic Network Monitor](https://support.deckofjacks.com/classic-network-monitor) — [report an issue](https://github.com/IanD-Bot/support/issues/new?template=classic-network-monitor.yml)
 - [Classic Firewall Advanced Rulesets](https://support.deckofjacks.com/classic-firewall-advanced-rulesets) — [report an issue](https://github.com/IanD-Bot/support/issues/new?template=classic-firewall-advanced-rulesets.yml)
+- [Classic Taskbar Groups](https://support.deckofjacks.com/classic-taskbar-groups) — [report an issue](https://github.com/IanD-Bot/support/issues/new?template=classic-taskbar-groups.yml)
 - [Petty Darn File](https://support.deckofjacks.com/petty-darn-file) — [report an issue](https://github.com/IanD-Bot/support/issues/new?template=petty-darn-file.yml)
 
 Support pages: https://support.deckofjacks.com/
