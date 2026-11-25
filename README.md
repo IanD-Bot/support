@@ -15,6 +15,7 @@ This repository: https://github.com/IanD-Bot/support
 - [Classic Firewall Advanced Rulesets](https://support.deckofjacks.com/classic-firewall-advanced-rulesets) — [report an issue](https://github.com/IanD-Bot/support/issues/new?template=classic-firewall-advanced-rulesets.yml)
 - [Classic Explorer](https://support.deckofjacks.com/classic-explorer) — [report an issue](https://github.com/IanD-Bot/support/issues/new?template=classic-explorer.yml)
 - [Petty Darn File](https://support.deckofjacks.com/petty-darn-file) — [report an issue](https://github.com/IanD-Bot/support/issues/new?template=petty-darn-file.yml)
+- [Classic Music Maker](https://support.deckofjacks.com/classic-music-maker) — [report an issue](https://github.com/IanD-Bot/support/issues/new?template=classic-music-maker.yml)
 
 Support pages: https://support.deckofjacks.com/
 
